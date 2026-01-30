@@ -1,11 +1,13 @@
 # 🎰 Solana Casino Game - Decentralized Jackpot Smart Contract
 
-[![Anchor](https://img.shields.io/badge/Anchor-0.31.0-blue)](https://www.anchor-lang.com/)
-[![Solana](https://img.shields.io/badge/Solana-1.18-purple)](https://solana.com/)
-[![Rust](https://img.shields.io/badge/Rust-1.70-orange)](https://www.rust-lang.org/)
-[![License](https://img.shields.io/badge/License-ISC-green)](LICENSE)
+[![Anchor](https://img.shields.io/badge/Anchor-0.31.0-blue)](https://www.anchor-lang.com/)  
+[![Solana](https://img.shields.io/badge/Solana-1.18-purple)](https://solana.com/)  
+[![Rust](https://img.shields.io/badge/Rust-1.70-orange)](https://www.rust-lang.org/)  
+[![License](https://img.shields.io/badge/License-ISC-green)](LICENSE)  
+![GitHub stars](https://img.shields.io/github/stars/yourusername/solana-jackpot-smart-contract?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/yourusername/solana-jackpot-smart-contract?style=social)
 
-A **decentralized casino game** built on **Solana blockchain** featuring a transparent, provably fair jackpot system. This smart contract enables users to participate in time-based jackpot rounds where winners are selected through weighted random distribution based on deposit amounts.
+A **decentralized casino game** built on the **Solana blockchain** featuring a transparent, provably fair jackpot system. This smart contract enables users to participate in time-based jackpot rounds where winners are selected through weighted random distribution based on deposit amounts. Ideal for developers building Solana casino games, blockchain gambling apps, or provably fair crypto gaming platforms.
 
 ### Stay Connected
 | Platform | Link | Purpose |
@@ -15,33 +17,33 @@ A **decentralized casino game** built on **Solana blockchain** featuring a trans
 
 ## 🎯 Overview
 
-This project implements a **Solana-based casino game** with a **jackpot mechanism** that ensures fairness and transparency through blockchain technology. Players can join rounds by depositing SOL, and winners are selected using a weighted random algorithm that gives higher chances to players with larger deposits.
+This project implements a **Solana-based casino game** with a **jackpot mechanism** that ensures fairness and transparency through blockchain technology. Players can join rounds by depositing SOL, and winners are selected using a weighted random algorithm that gives higher chances to players with larger deposits. Keywords: Solana jackpot smart contract, decentralized casino, provably fair gambling, on-chain casino game, Solana blockchain gaming.
 
 ### Key Features
 
-- 🎲 **Provably Fair Gaming**: All game logic is on-chain, ensuring transparency
-- ⏱️ **Time-Based Rounds**: Configurable round duration for each jackpot game
-- 💰 **Weighted Winner Selection**: Fair random selection based on deposit amounts
-- 🔒 **Secure Smart Contract**: Built with Anchor framework and Rust
-- 💸 **Platform Fee System**: Configurable platform fees for sustainability
-- 🏆 **Multiple Deposits**: Players can make multiple deposits per round
-- 📊 **On-Chain Tracking**: All deposits and winners are recorded on-chain
+- 🎲 **Provably Fair Gaming**: All game logic is on-chain, ensuring transparency and verifiability.
+- ⏱️ **Time-Based Rounds**: Configurable round duration for each jackpot game.
+- 💰 **Weighted Winner Selection**: Fair random selection based on deposit amounts (larger deposits increase win probability).
+- 🔒 **Secure Smart Contract**: Built with Anchor framework and Rust for robust security.
+- 💸 **Platform Fee System**: Configurable platform fees for sustainability.
+- 🏆 **Multiple Deposits**: Players can make multiple deposits per round.
+- 📊 **On-Chain Tracking**: All deposits and winners are recorded on-chain for auditability.
 
 ## 🚀 Quick Start
 
 ### Prerequisites
 
-- [Rust](https://www.rust-lang.org/tools/install) (latest stable version)
+- [Rust](https://www.rust-lang.org/tools/install) (latest stable version as of 2026)
 - [Solana CLI](https://docs.solana.com/cli/install-solana-cli-tools) (v1.18 or later)
 - [Anchor Framework](https://www.anchor-lang.com/docs/installation) (v0.31.0)
 - [Node.js](https://nodejs.org/) (v16 or later) and [Yarn](https://yarnpkg.com/)
 
 ### Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/solana-jackpot-smart-contract.git
-   cd solana-jackpot-smart-contract
+1. **Clone the repository**  
+   ```bash  
+   git clone https://github.com/yourusername/solana-jackpot-smart-contract.git  
+   cd solana-jackpot-smart-contract  
    ```
 
 2. **Install dependencies**
@@ -320,3 +322,12 @@ For questions, issues, or contributions, please open an issue on GitHub.
 **Built with ❤️ on Solana**
 
 *This project is for educational and development purposes. Please ensure compliance with local gambling regulations before deploying to production.*
+
+
+### Next Steps After Updating
+1. Update GitHub repo settings: Add a concise description, topics, and a website (if you have a demo).
+2. Commit and push the README.
+3. Share on X: "Updated my Solana jackpot smart contract README! Now optimized for provably fair blockchain gaming. #Solana #CryptoCasino #BlockchainGaming [link]".
+4. Monitor: Use Google Search Console (if linked) or search "site:github.com/yourusername" to check indexing. For Grok, test by asking me about "Solana jackpot smart contract".
+
+This should improve rankings over time as crawlers re-index. If you need more tweaks, share details! 🚀
